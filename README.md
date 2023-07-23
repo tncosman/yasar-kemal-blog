@@ -1,1 +1,2 @@
-# yasar-kemal-blog
+## yasar-kemal-blog
+Eğitim Devam Ediyor
